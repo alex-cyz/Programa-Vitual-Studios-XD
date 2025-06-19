@@ -1,0 +1,9 @@
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana 3 - Tarea 3.csproj.AssemblyReference.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana 2 - Tarea 1.exe.config
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana_2___Tarea_1.Form1.resources
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana_2___Tarea_1.LoginForm.resources
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana_2___Tarea_1.Properties.Resources.resources
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana 3 - Tarea 3.csproj.GenerateResource.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana 3 - Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana 2 - Tarea 1.exe
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Semana 2 - Tarea 1\obj\Debug\Semana 2 - Tarea 1.pdb

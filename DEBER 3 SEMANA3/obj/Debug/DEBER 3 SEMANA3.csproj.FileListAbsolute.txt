@@ -1,0 +1,9 @@
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\bin\Debug\DEBER 3 SEMANA3.exe.config
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\bin\Debug\DEBER 3 SEMANA3.exe
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\bin\Debug\DEBER 3 SEMANA3.pdb
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\obj\Debug\DEBER 3 SEMANA3.csproj.AssemblyReference.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\obj\Debug\DEBER_3_SEMANA3.Properties.Resources.resources
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\obj\Debug\DEBER 3 SEMANA3.csproj.GenerateResource.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\obj\Debug\DEBER 3 SEMANA3.csproj.CoreCompileInputs.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\obj\Debug\DEBER 3 SEMANA3.exe
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\DEBER 3 SEMANA3\obj\Debug\DEBER 3 SEMANA3.pdb

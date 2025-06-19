@@ -1,0 +1,9 @@
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\bin\Debug\Clase 3 semana 3.exe.config
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\bin\Debug\Clase 3 semana 3.exe
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\bin\Debug\Clase 3 semana 3.pdb
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\obj\Debug\Clase 3 semana 3.csproj.AssemblyReference.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\obj\Debug\Clase_3_semana_3.Properties.Resources.resources
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\obj\Debug\Clase 3 semana 3.csproj.GenerateResource.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\obj\Debug\Clase 3 semana 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\obj\Debug\Clase 3 semana 3.exe
+C:\Users\usuario1\Documents\Programa Vitual Studios XD\Clase 3 semana 3\obj\Debug\Clase 3 semana 3.pdb
